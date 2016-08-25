@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">S5A1GoogleSearch</string>
+    <string name="empty_edit_text_error">Please Enter Search Text</string>
+</resources>
